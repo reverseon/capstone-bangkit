@@ -1,3 +1,9 @@
 [submodule "capstone-bangkit-cc"]
 	path = capstone-bangkit-cc
 	url = https://github.com/reverseon/capstone-bangkit-cc
+[submodule "capstone-bangkit-md"]
+	path = capstone-bangkit-md
+	url = https://github.com/FlitzyBlue332/capstone-bangkit-md
+[submodule "capstone-bangkit-ml"]
+	path = capstone-bangkit-ml
+	url = https://github.com/virdianhrn/capstone-bangkit-ml
