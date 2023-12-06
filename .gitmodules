@@ -1,0 +1,3 @@
+[submodule "capstone-bangkit-cc"]
+	path = capstone-bangkit-cc
+	url = https://github.com/reverseon/capstone-bangkit-cc
