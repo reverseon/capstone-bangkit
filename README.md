@@ -1,3 +1,12 @@
+# Team CH2-PS341
+1. (MD) A281BSX2574 – Emeninta Angelina Natasya Pelawi 
+2. (MD) A002BSY2176 – Muhammad Raihan Aulia
+3. (CC) C010BSY3991 – Loanda Gunawan 
+4. (CC) C002BSY3102 – Thirafi Najwan Kurniatama
+5. (ML) M002BSX1738 – Cyntia Agnes Priscilla 
+6. (ML) M324BSY0703 – Wilnanda Agung Putra
+7. (ML) M010BSY0110 - Virdian Harun Prayoga
+
 # Cloud Computing (Backend)
 To start the backend services, one can do (assuming NodeJS 21 LTS is installed):
 1. `cd capstone-bangkit-cc`
@@ -35,13 +44,13 @@ Android Application for Sinari
 
 ## Screenshots
 
-<img src="https://img.thr.fi/content/IMG-20231222-WA0000-1703209714.jpg" width="300px" style="margin-right: 30px;" height="100%" />
+<img src="https://img.thr.fi/content/IMG-20231222-WA0000-1703209714.jpg" width="300px" style="margin-right: 15px;" height="100%" />
 <img src="https://img.thr.fi/content/app-1-1703209730.png" width="300px" height="100%" />
 <br /><br />
-<img src="https://img.thr.fi/content/app-2-1703209736.png" style="margin-right: 30px;" width="300px" height="100%" />
+<img src="https://img.thr.fi/content/app-2-1703209736.png" style="margin-right: 15px;" width="300px" height="100%" />
 <img src="https://img.thr.fi/content/app-3-1703209744.png" width="300px" height="100%" />
 <br /><br />
-<img src="https://img.thr.fi/content/app-4-1703209759.png" width="300px" height="100%" />
-<br /><br />
+<img src="https://img.thr.fi/content/app-4-1703209759.png" style="margin-right: 15px;" width="300px" height="100%" />
 <img src="https://img.thr.fi/content/app-5-1703209771.png" width="300px" height="100%" />
+<br /><br />
 <img src="https://img.thr.fi/content/app-6-1703209792.png" width="300px" height="100%" />
