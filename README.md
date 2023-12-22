@@ -45,4 +45,3 @@ Android Application for Sinari
 <br /><br />
 <img src="https://img.thr.fi/content/app-5-1703209771.png" width="300px" height="100%" />
 <img src="https://img.thr.fi/content/app-6-1703209792.png" width="300px" height="100%" />
-## 
